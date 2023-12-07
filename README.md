@@ -5,6 +5,6 @@ Açık Kaynak Yazılım Geliştirme Ödev 1 - Variables
 bash script.sh
 
 # OUTPUT
-┌──(root㉿kali)-[~/Ders]
+┌──(root㉿kali)-[~/Ders]      
 └─# bash script.sh
 Merhaba benim adım Dogukan, soyadım EREN.

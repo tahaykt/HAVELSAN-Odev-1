@@ -6,5 +6,5 @@ bash script.sh
 
 # OUTPUT
 ┌──(root㉿kali)-[~/Ders]      
-└─# bash script.sh
+└─# bash script.sh         
 Merhaba benim adım Taha, soyadım Yakıt.
